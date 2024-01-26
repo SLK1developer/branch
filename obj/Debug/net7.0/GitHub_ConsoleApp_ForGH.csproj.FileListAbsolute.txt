@@ -1,0 +1,15 @@
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\bin\Debug\net7.0\GitHub_ConsoleApp_ForGH.exe
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\bin\Debug\net7.0\GitHub_ConsoleApp_ForGH.deps.json
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\bin\Debug\net7.0\GitHub_ConsoleApp_ForGH.runtimeconfig.json
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\bin\Debug\net7.0\GitHub_ConsoleApp_ForGH.dll
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\bin\Debug\net7.0\GitHub_ConsoleApp_ForGH.pdb
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\GitHub_ConsoleApp_ForGH.csproj.AssemblyReference.cache
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\GitHub_ConsoleApp_ForGH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\GitHub_ConsoleApp_ForGH.AssemblyInfoInputs.cache
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\GitHub_ConsoleApp_ForGH.AssemblyInfo.cs
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\GitHub_ConsoleApp_ForGH.csproj.CoreCompileInputs.cache
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\GitHub_ConsoleApp_ForGH.dll
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\refint\GitHub_ConsoleApp_ForGH.dll
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\GitHub_ConsoleApp_ForGH.pdb
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\GitHub_ConsoleApp_ForGH.genruntimeconfig.cache
+C:\Users\liubo\OneDrive\Рабочий стол\WinForms\GitHub_ConsoleApp_ForGH\obj\Debug\net7.0\ref\GitHub_ConsoleApp_ForGH.dll
